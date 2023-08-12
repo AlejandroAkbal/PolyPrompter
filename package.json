@@ -38,6 +38,8 @@
 		"@popperjs/core": "^2.11.8",
 		"flowbite": "^1.8.1",
 		"flowbite-svelte": "^0.43.1",
+		"flowbite-svelte-blocks": "^0.4.5",
+		"flowbite-svelte-icons": "^0.3.6",
 		"tailwind-merge": "^1.14.0"
 	}
 }
