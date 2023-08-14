@@ -182,6 +182,8 @@ describe('Stable Diffusion Language', () => {
 
 		// TODO: Embeddings?
 
+		// TODO: Recursion: double combine everything does not break things
+
 		it('Combines everything', () => {
 			const attentionText = "(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (photorealistic:1.1), (extremely detailed face), (ultra detailed), (1girl:1.1), (from bellow, from behind:1.2), (on all fours:1.2), spread legs, (pussy close up:1.2), ((delicate eyes and face)), (slingshot swimsuit:1.26), (pubic hair:1.0), shiny skin, (((petite body))), {high ponytail|short|red} hair, (scared:1.4), (blush:1.2), (open mouth:1.0), (blonde:0.7), (onsen), <lora:slingshot_v1.5:1>"
 
